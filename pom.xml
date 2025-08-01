@@ -1103,9 +1103,9 @@
     <nexus-staging-maven-plugin.version>1.6.13</nexus-staging-maven-plugin.version>
 
     <!-- Properties for maven-compiler-plugin -->
-    <maven.compiler.compilerVersion>1.5</maven.compiler.compilerVersion>
-    <maven.compiler.source>1.5</maven.compiler.source>
-    <maven.compiler.target>1.5</maven.compiler.target>
+    <maven.compiler.compilerVersion>21</maven.compiler.compilerVersion>
+    <maven.compiler.source>21</maven.compiler.source>
+    <maven.compiler.target>21</maven.compiler.target>
     <maven.compiler.fork>true</maven.compiler.fork>
     <maven.compiler.verbose>false</maven.compiler.verbose>
     <maven.compiler.debug>true</maven.compiler.debug>
